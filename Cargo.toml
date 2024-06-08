@@ -1,5 +1,5 @@
 [package]
-name = "exper-surrealdb-ql-syntax"
+name = "exper-surrealdb-getting-record-id"
 version = "0.1.0"
 edition = "2021"
 
